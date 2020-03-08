@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("添加了功能1")
-        
+        print("在master分支下完成了功能4。")
     }
 
 
