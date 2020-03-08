@@ -16,6 +16,10 @@ class ViewController: UIViewController {
         print("添加了功能1")
         print("在分支上添加了功能3")
         print("在master分支下完成了功能4。")
+        
+    }
+    override class func willChangeValue(forKey key: String) {
+        //p\
     }
 
 
